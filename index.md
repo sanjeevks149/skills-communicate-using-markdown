@@ -8,3 +8,7 @@ num2 = int(input())
 sum = num1 + num2
 print(sum)
 ```
+### to-do list
+- [x] Turn on GitHub Pages
+- [ ] OutLine my protfolio
+- [ ] Introduce myslef to the world
